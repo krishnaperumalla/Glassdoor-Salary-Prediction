@@ -1,5 +1,5 @@
 # Glassdoor-Salary-Prediction
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/krishnaperumalla/Glassdoor-Salary-Prediction)
+
 
 This project focuses on predicting job salaries using data scraped from Glassdoor. It involves a comprehensive data cleaning and feature engineering process, followed by the implementation and evaluation of various regression models to provide reliable salary estimates. The goal is to build a tool that can assist both job seekers in negotiating compensation and employers in setting competitive salaries.
 
